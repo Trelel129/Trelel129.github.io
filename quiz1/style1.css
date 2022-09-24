@@ -41,6 +41,7 @@ body {
   }
   
   p {
+    font-size: 22px;
     text-indent: 50px;
     text-align: justify;
     letter-spacing: 3px;
@@ -48,4 +49,5 @@ body {
   .body{
     background-color: #FFFF;
   }
-   
+
+
