@@ -29,7 +29,7 @@ body {
   li a:hover {
     background-color: #111;
   }
-
+  
   .active {
     background-color: #04AA6D;
   }
@@ -54,7 +54,7 @@ body {
     background-color: #FFFF;
     padding:20px;
     margin-top:55px;
-    height: 1500px;
+    height: auto;
     z-index: -1;
   }
   .specified{
@@ -63,5 +63,8 @@ body {
 
   table, th, td {
     border:1px solid black;
+    width:auto
   }
-
+  table {
+    text-align: center;
+  }
